@@ -1,5 +1,5 @@
 
 
-- 📟 [blog](https://jbukuts.com)
+- 📟 [blog](https://blog.jbukuts.com)
 - 📫 [email](mailto:jbukuts@gmail.com)
 
