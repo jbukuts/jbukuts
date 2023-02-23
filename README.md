@@ -1,5 +1,8 @@
 
 
-- 📟 [blog](https://jbukuts.com)
-- 📫 [email](mailto:jbukuts@gmail.com)
+Back-end and front-end web developer
+
+~ [site](https://jbukuts.com) ~ [twitter](https://twitter.com) ~
+
+
 
